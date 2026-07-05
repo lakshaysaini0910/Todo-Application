@@ -1,6 +1,6 @@
 # 📝 Todo App
 
-A modern and responsive Todo App built with **HTML**, **CSS**, and **JavaScript**. The application helps users organize daily tasks with persistent storage using the browser's **Local Storage**.
+A clean and responsive Todo App built using **HTML**, **CSS**, and **JavaScript**. It helps users organize daily tasks with an intuitive interface while storing data in the browser using **Local Storage**, ensuring tasks remain available even after refreshing or reopening the page.
 
 ## ✨ Features
 
@@ -8,12 +8,12 @@ A modern and responsive Todo App built with **HTML**, **CSS**, and **JavaScript*
 * ✅ Mark tasks as completed
 * 🗑️ Delete individual tasks
 * 🧹 Clear all completed tasks
-* 💾 Save tasks using Local Storage
-* 📊 Display remaining active tasks
 * 🔍 Filter tasks by **All**, **Active**, and **Completed**
+* 💾 Persist tasks using Local Storage
+* 📊 Display the count of remaining active tasks
 * 📱 Fully responsive design
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
 
 * HTML5
 * CSS3
@@ -46,18 +46,15 @@ Todo-App/
 
 ## 📸 Preview
 
-<img width="800" alt="Todo App Preview" src="https://via.placeholder.com/800x450?text=Todo+App+Screenshot">
-
-> Replace the placeholder image with a screenshot of your application.
+> Add a screenshot of your Todo App here after uploading it to GitHub.
 
 ## 🌟 Future Improvements
 
-* Edit existing tasks
-* Due dates and reminders
-* Drag-and-drop task ordering
-* Dark mode
-* Task categories
+* 📅 Add due dates for tasks
+* ⭐ Add task priorities
+* 🔎 Search tasks by keyword
+* ☁️ Sync tasks with a backend database
 
-## 📄 License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License and is intended for learning and personal use.
+**Lakshay Saini**
